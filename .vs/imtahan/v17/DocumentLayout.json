@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\speaker\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\speaker\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\speaker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\speaker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1DE2BC-8B6D-4A05-B40E-3039F7CC5C25}|imtahan.Business\\imtahan.Business.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan.business\\services\\concretes\\speakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1DE2BC-8B6D-4A05-B40E-3039F7CC5C25}|imtahan.Business\\imtahan.Business.csproj|solutionrelative:imtahan.business\\services\\concretes\\speakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\speaker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\speaker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E0B9E-3706-4DF3-9275-DA67FDF2F103}|imtahan.Data\\imtahan.Data.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E0B9E-3706-4DF3-9275-DA67FDF2F103}|imtahan.Data\\imtahan.Data.csproj|solutionrelative:imtahan.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1DE2BC-8B6D-4A05-B40E-3039F7CC5C25}|imtahan.Business\\imtahan.Business.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan.business\\services\\abstracts\\ispeakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1DE2BC-8B6D-4A05-B40E-3039F7CC5C25}|imtahan.Business\\imtahan.Business.csproj|solutionrelative:imtahan.business\\services\\abstracts\\ispeakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1DE2BC-8B6D-4A05-B40E-3039F7CC5C25}|imtahan.Business\\imtahan.Business.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1DE2BC-8B6D-4A05-B40E-3039F7CC5C25}|imtahan.Business\\imtahan.Business.csproj|solutionrelative:imtahan.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9520EEF8-D67B-4A0D-8545-1E377B9445EC}|imtahan\\imtahan.csproj|solutionrelative:imtahan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E0B9E-3706-4DF3-9275-DA67FDF2F103}|imtahan.Data\\imtahan.Data.csproj|c:\\users\\ca.r215.08\\desktop\\new folder (2)\\imtahan\\imtahan.data\\migrations\\20240524132902_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E0B9E-3706-4DF3-9275-DA67FDF2F103}|imtahan.Data\\imtahan.Data.csproj|solutionrelative:imtahan.data\\migrations\\20240524132902_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "imtahan.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "imtahan.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:17:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "imtahan.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "imtahan.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:09:59.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeakerService.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Business\\Services\\Concretes\\SpeakerService.cs",
+              "RelativeDocumentMoniker": "imtahan.Business\\Services\\Concretes\\SpeakerService.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Business\\Services\\Concretes\\SpeakerService.cs",
+              "RelativeToolTip": "imtahan.Business\\Services\\Concretes\\SpeakerService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:50:13.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:44:31.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:44:08.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Delete.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Speaker\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Delete.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Speaker\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:43:16.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:43:15.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Speaker\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:43:10.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:43:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:42:50.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISpeakerService.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Business\\Services\\Abstracts\\ISpeakerService.cs",
+              "RelativeDocumentMoniker": "imtahan.Business\\Services\\Abstracts\\ISpeakerService.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Business\\Services\\Abstracts\\ISpeakerService.cs",
+              "RelativeToolTip": "imtahan.Business\\Services\\Abstracts\\ISpeakerService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:39:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwGcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:37:38.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "imtahan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:36:55.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:35:22.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "imtahan\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "imtahan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:33:43.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "imtahan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:30:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240524132902_final.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Data\\Migrations\\20240524132902_final.cs",
+              "RelativeDocumentMoniker": "imtahan.Data\\Migrations\\20240524132902_final.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan.Data\\Migrations\\20240524132902_final.cs",
+              "RelativeToolTip": "imtahan.Data\\Migrations\\20240524132902_final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:29:02.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpeakerController.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:27:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:27:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:27:06.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "RelativeDocumentMoniker": "imtahan\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "RelativeToolTip": "imtahan\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:27:04.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Program.cs",
+              "RelativeDocumentMoniker": "imtahan\\Program.cs",
+              "ToolTip": "C:\\Users\\CA.R215.08\\Desktop\\New folder (2)\\imtahan\\imtahan\\Program.cs",
+              "RelativeToolTip": "imtahan\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:26:44.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

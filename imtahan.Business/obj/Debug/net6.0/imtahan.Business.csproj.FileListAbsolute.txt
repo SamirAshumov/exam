@@ -1,0 +1,17 @@
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Business.deps.json
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Business.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Business.pdb
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Core.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Data.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Data.pdb
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\bin\Debug\net6.0\imtahan.Core.pdb
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.csproj.AssemblyReference.cache
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.AssemblyInfoInputs.cache
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.AssemblyInfo.cs
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan..0B3B805F.Up2Date
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\refint\imtahan.Business.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\imtahan.Business.pdb
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Business\obj\Debug\net6.0\ref\imtahan.Business.dll

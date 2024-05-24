@@ -1,0 +1,12 @@
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\bin\Debug\net6.0\imtahan.Core.deps.json
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\bin\Debug\net6.0\imtahan.Core.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\bin\Debug\net6.0\imtahan.Core.pdb
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.csproj.AssemblyReference.cache
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.AssemblyInfoInputs.cache
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.AssemblyInfo.cs
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\refint\imtahan.Core.dll
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\imtahan.Core.pdb
+C:\Users\CA.R215.08\Downloads\imtahan\imtahan.Core\obj\Debug\net6.0\ref\imtahan.Core.dll
